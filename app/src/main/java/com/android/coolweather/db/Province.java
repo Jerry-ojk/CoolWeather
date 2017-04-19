@@ -25,5 +25,4 @@ public class Province extends DataSupport {
     public void setProvinceCore(int provinceCore){
         this.provinceCore=provinceCore;
     }
-
 }
