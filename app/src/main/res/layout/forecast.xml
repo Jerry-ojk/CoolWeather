@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
     <TextView
-        android:layout_marginLeft="15dp"
+        android:layout_marginLeft="30dp"
         android:layout_marginTop="15dp"
         android:text="预报"
         android:textColor="#fff"
@@ -15,6 +15,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
     <LinearLayout
+        android:layout_marginBottom="15dp"
         android:id="@+id/forecast_layout"
         android:orientation="vertical"
         android:layout_width="match_parent"
