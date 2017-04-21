@@ -5,12 +5,12 @@ import android.text.TextUtils;
 import com.android.coolweather.db.City;
 import com.android.coolweather.db.County;
 import com.android.coolweather.db.Province;
+import com.android.coolweather.gson.Weather;
 import com.google.gson.Gson;
 
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.w3c.dom.Text;
 
 /**
  * Created by 1583605494 on 2017/4/21.
